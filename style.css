@@ -1,0 +1,27 @@
+body {
+    background-color: 	#FDFFF4;
+}
+
+#header {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(253,255,245);
+}
+
+#decoration-red {
+    position: absolute;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(222,52,47);
+    top: 200px;
+    left: 0px;
+}
+
+#decoration-dark {
+    position: absolute;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(44,62,80);
+    top: 220px;
+    left: 0px;
+}
