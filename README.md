@@ -1,5 +1,4 @@
 # labtrantor
 
-Resources of my blog LabTrantor.
+This repo includes all related design and codes of my personal website LabTrantor.
 
-All the related pics and articles.
